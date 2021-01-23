@@ -1,6 +1,8 @@
 DICore
 =======
 
+> 目前在设计和开发阶段
+
 DICore 是一个快速的接口生成工具，使用 GraphQL 查询数据表。DICore 的目标是帮助你快速完成开发任务。
 
 ```graphql
